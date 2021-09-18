@@ -1,4 +1,0 @@
-com/example/knights/BuildConfig.java
- com.example.knights.BuildConfig
-com/example/knights/MainActivity.java
- com.example.knights.MainActivity
